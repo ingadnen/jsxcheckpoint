@@ -1,0 +1,29 @@
+.title {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+  }
+
+.red {
+    color: #fa2a2a;
+  }
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: center;
+    width: auto;
+    align-content: center;
+  }
+  
+div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+
+ 
